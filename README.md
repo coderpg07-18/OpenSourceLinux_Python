@@ -21,7 +21,7 @@ These scripts are designed **strictly for Linux architectures**. Running them on
 
 1. **Clone the repository** (if not already local):
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/coderpg07-18/OpenSourceLinux_Python
    cd oss-audit-python
    ```
 
